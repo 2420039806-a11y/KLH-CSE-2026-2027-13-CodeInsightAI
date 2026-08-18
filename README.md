@@ -15,7 +15,7 @@
 
 ## Supervisor
 
-**Name of Guide:** []
+**Name of Guide:** Rajkumar Patil
 
 ## Abstract
 
